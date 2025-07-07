@@ -13,7 +13,7 @@ A comprehensive parking garage management system built with Node.js and Express 
 5. **Dynamic Pricing**: Different pricing tiers for different vehicle types
 
 ## System Architecture
-
+![Architecture](./architecture.png)
 The system follows a client-server architecture with:
 - **Frontend**: EJS templating with static assets
 - **Backend**: Node.js with Express framework
